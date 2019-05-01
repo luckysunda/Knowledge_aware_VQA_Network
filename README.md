@@ -16,8 +16,8 @@
 * easy to execute the entire code in google colab
 
 ## Dataset
-* http://malllabiisc.github.io/resources/kvqa/
+* Preprocessed KG facts (http://malllabiisc.github.io/resources/kvqa/)
 
-* Preprocessed KG facts (link)
+*  Dataset (http://dosa.cds.iisc.ac.in/kvqa/dataset.json)
 ## Procedure
 * It is advised to use google colab.<br/>
