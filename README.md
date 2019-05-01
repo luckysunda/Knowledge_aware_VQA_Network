@@ -1,6 +1,9 @@
 # Project E1 246: Natural Language Understanding
 * The code contains Pytorch implementation of knowledge-based visual question answering system.
+
+
 ## Architecture
+![](images/architecture.png)
 ### Modules
 * Fact module
 * Question module
@@ -21,3 +24,4 @@
 *  Dataset (http://dosa.cds.iisc.ac.in/kvqa/dataset.json)
 ## Procedure
 * It is advised to use google colab.<br/>
+
